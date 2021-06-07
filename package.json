@@ -6,7 +6,7 @@
   "author": "",
   "license": "ISC",
   "scripts": {
-    "start": "node ./spin && echo $0",
+    "spin": "node ./spin && echo $0",
     "start-server": "node ./server",
     "start-challenge": "node ./challenge"
   },
